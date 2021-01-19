@@ -1,6 +1,8 @@
 KopiLua
 =================
 
+KopiLua is a legacy project and was replaced by [KeraLua](https://github.com/NLua/KeraLua), which is a 1:1 binding to Lua C API.
+
 [![Build Status](https://travis-ci.org/NLua/KopiLua.svg?branch=master)](https://travis-ci.org/NLua/KopiLua)
 
 * What is KopiLua?
