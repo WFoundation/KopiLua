@@ -1,3 +1,12 @@
+KopiLua for Wherigo
+===================
+
+This repository is a fork of NLua/KopiLua, a C# port of Lua 5.1.5. Although Lua 5.1 has long been replaced by newer versions, Wherigo cartridges in the wild are still compiled and executed against this particular version. It is therefore important for us to maintain this port to ensure compatibility of Wherigo with modern platforms.
+
+Original README below.
+
+----
+
 KopiLua
 =================
 
